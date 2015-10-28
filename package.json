@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "name": "node-asset-compress",
   "homepage": "https://github.com/Skelware/node-asset-compress",
-  "description": "Allows Grunt and Gulp to work with your CakePHP asset_compress.ini file!",
+  "description": "Perform integrity tests on your CakePHP asset_compress.ini file!",
   "keywords": [
     "node",
     "asset",
