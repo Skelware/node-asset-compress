@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Node Asset Compress",
+  "description": "Allows Grunt and Gulp to work with your CakePHP asset_compress.ini file!",
+  "url": "https://www.npmjs.com/package/node-file-parser",
+  "logo": "",
+  "options": {
+    "linkNatives": "true",
+    "outdir": "./docs",
+    "paths": [
+      "./src"
+    ]
+  }
+}
