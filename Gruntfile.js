@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             options: {
                 config: '.eslintrc'
             },
-            target: ['src/', 'spec/']
+            target: ['src/**/*.js', 'spec/**/*.js']
         },
 
         yuidoc: {
