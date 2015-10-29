@@ -3,7 +3,7 @@
 # Node Asset Compress
 This library is not intended to be used without a task runner such as Grunt or Gulp, but can certainly be used if you so desire. If you use Grunt, you can use the [grunt-asset-compress](https://www.npmjs.com/package/grunt-asset-compress) package instead.
 
-As your configuration file grows, it becomes harder and harder to assert the integrity of the file. To conquer this, we developed this simple package based on [node-file-parser]() to perform multiple checks on your `asset_compress.ini`.
+As your configuration file grows, it becomes harder and harder to assert the integrity of the file. To conquer this, we developed this simple package based on [node-file-parser](https://www.npmjs.com/package/node-file-parser) to perform multiple checks on your `asset_compress.ini`.
 
 Automatic fixing is supported for simple conflicts, and is completely optional. Likewise, you can also choose to clean up your configuration file with this library quite easily!
 
