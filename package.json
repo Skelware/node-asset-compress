@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "node-asset-compress",
   "homepage": "https://github.com/Skelware/node-asset-compress",
   "description": "A lightweight library to perform integrity tests on your CakePHP asset_compress.ini file!",
