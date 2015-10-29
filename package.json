@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "name": "node-asset-compress",
   "homepage": "https://github.com/Skelware/node-asset-compress",
-  "description": "Perform integrity tests on your CakePHP asset_compress.ini file!",
+  "description": "A lightweight library to perform integrity tests on your CakePHP asset_compress.ini file!",
   "keywords": [
     "node",
     "asset",
@@ -35,7 +35,7 @@
     "fs-extra": "^0.26.0",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
-    "grunt-eslint": "*",
+    "grunt-eslint": "^17.3.1",
     "grunt-jasmine-node-coverage": "^0.4.1",
     "load-grunt-tasks": "^3.1.0",
     "yuidocjs": "^0.9.0"
